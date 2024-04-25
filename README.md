@@ -1,6 +1,3 @@
-# Construction-Waste-Segmentation-Model
-
-
 
 ## Data
 The dataset used to train the model is the CWLD dataset published on Zenodo.
